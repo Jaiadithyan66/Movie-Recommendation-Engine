@@ -30,3 +30,8 @@ Python
 Libraries: pandas, numpy, scikit-learn, API applications.
 
 NLTK, Word embeddings, Vectorizer, ML Algorithms
+
+## Captures
+
+![Alt text](url)
+
