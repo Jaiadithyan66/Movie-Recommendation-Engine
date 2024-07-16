@@ -34,5 +34,5 @@ NLTK, Word embeddings, Vectorizer, ML Algorithms
 ## Captures
 
 ![Captures](https://github.com/Jaiadithyan66/Movie-Recommendation-Engine/blob/main/screenshot%201.png?raw=true)
-![Captures]()
+![Captures](https://github.com/Jaiadithyan66/Movie-Recommendation-Engine/blob/main/screenshot%202.png?raw=true)
 
