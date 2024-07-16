@@ -18,6 +18,7 @@ The dataset used for this project is "https://www.kaggle.com/datasets/tmdb/tmdb-
 
 Content Based Filtering
 
+  This project employs content-based filtering to recommend movies based on the attributes and features of each movie, focusing on analyzing the intrinsic characteristics of movies such as genres, actors, directors, and plot keywords. By understanding the preferences of users through their interactions with movie attributes, the recommendation engine suggests relevant movies that align with their individual tastes and preferences.
   
 
 ## Technologies
