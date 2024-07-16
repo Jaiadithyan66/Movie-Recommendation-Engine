@@ -4,7 +4,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
     long_description = fh.read()
 
 
-AUTHOR_NAME = 'Aadhi'
+AUTHOR_NAME = 'username'
 SRC_REPO = 'src'
 LIST_OF_REQUIREMENTS = ['streamlit']
 
@@ -12,7 +12,7 @@ setup(
     name = SRC_REPO,
     version= '0.0.1',
     author= AUTHOR_NAME,
-    author_email = 'jaiadhithyan3@gmail.com',
+    author_email = 'user email,
     description= 'Package to create a web app',
     long_description= long_description,
     long_description_content_type = 'text/markdown',
