@@ -1,5 +1,7 @@
 # Movie Recommendation Engine
 
+![Alt text](url)
+
 ## Table of Contents
 
 - Overview
