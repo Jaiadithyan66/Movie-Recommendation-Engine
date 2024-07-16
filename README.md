@@ -1,6 +1,6 @@
 # Movie Recommendation Engine
 
-![Alt text](url)
+![Movie Recommendation Engine](https://github.com/Jaiadithyan66/Movie-Recommendation-Engine/blob/main/images.png?raw=true)
 
 ## Table of Contents
 
